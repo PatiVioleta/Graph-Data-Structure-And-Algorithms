@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1525978430 source:c:\users\pati\desktop\univ\sem2\algoritmica grafelor\lab mele\bfs\main.cpp
+	<fstream>
+	<iostream>
+	<vector>
+

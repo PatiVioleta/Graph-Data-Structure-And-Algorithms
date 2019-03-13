@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1526031613 source:c:\users\pati\desktop\univ\sem2\algoritmica grafelor\lab mele\lantelem\main.cpp
+	<iostream>
+	<fstream>
+

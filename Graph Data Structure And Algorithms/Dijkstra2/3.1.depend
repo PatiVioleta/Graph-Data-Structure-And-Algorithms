@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1524912917 source:c:\users\pati\desktop\univ\sem2\algoritmica grafelor\lab mele\3.1\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<queue>
+	<algorithm>
+

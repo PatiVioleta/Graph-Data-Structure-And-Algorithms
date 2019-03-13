@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1528452682 source:c:\users\pati\desktop\univ\sem2\algoritmica grafelor\lab mele\5.2 edmonds karp\main.cpp
+	<iostream>
+	<fstream>
+
